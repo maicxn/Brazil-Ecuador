@@ -96,3 +96,12 @@ We use these tools for the App Devolpement:
 
 - [Python](https://www.python.org/)
 - [KivyMD](https://github.com/kivymd/KivyMD)
+
+# Credits
+
+Main contributors:
+
+- [Nailton Vital](https://github.com/nailtonvital)
+- [Maicon Oliveira](https://github.com/maicxn)
+- [Viktor Santos](https://github.com/KiktorTech)
+- [Vitor Hugo](https://github.com/Vitorugoogle)
